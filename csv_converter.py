@@ -83,5 +83,7 @@ for j in range(len(m_data)):
 	m_data[j].append(lat)
 
 
-
+with open('result.csv', 'wb') as f:
+    writer = csv.writer(f)
+    writer.writerows(m_data)
 
