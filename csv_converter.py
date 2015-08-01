@@ -22,10 +22,15 @@ n = len(m_dict)
 m_dict.append('Long')
 m_dict.append('Lat')
 
+def getGPS(data):
+	zone = 16 # for Madison, WI
+	a, b = data
+	return a, b
+
 def getUTM(data):
 	res = [s[:7] for s in data.split() if len(s) >= 5]
 	lon, lat = res[0], res[1]
-	return lon, lat
+	return getGPS(lon, lat)
 
 
 cnt = 0
