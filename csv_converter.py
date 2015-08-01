@@ -72,6 +72,8 @@ def getUTM(data):
 
 t=open('vis.js','w')
 
+res_json = '{"type": "FeatureCollection", "features": ['
+
 cnt = 0
 for j in range(len(m_data)):
 	lon, lat = (None, None)
@@ -81,7 +83,34 @@ for j in range(len(m_data)):
 			res = get(m_data[j][i])
 			if "None" not in res:
 				t.write('{location: new google.maps.LatLng(utmconv.utmToLat(%s, %s, 16, false),utmconv.utmToLng(%s, %s, 16, false)), weight: 1.0},\n'%(res[0],res[1],res[0],res[1]))
-			lat, lon = getUTM(m_data[j][i])
+					
+				lat, lon = getUTM(m_data[j][i])
+	  			res_json += '''
+					  		{
+					            "geometry": {
+					                "type": "Point", 
+					                "coordinates": [
+					                    %s, 
+					                    %s
+					                ]
+					            }, 
+					            "type": "Feature", 
+					            "properties": {
+					                "utm_zone": "16N", 
+					                "utm_easting": %s, 
+					                "manually_marked_outlier": "false", 
+					                "ground_speed": null, 
+					                "timestamp": "%s", 
+					                "created_at": "%s", 
+					                "height_above_ellipsoid": null, 
+					                "study_local_timestamp": "%s", 
+					                "visible": true, 
+					                "sensor_type": "gps", 
+					                "utm_northing": %s, 
+					            }
+							},
+				''' % (str(lat+0.09),str(lon+0.009),str(lat+0.09), m_data[j][1], m_data[j][1], m_data[j][1], str(lon+0.009))
+
 			pos = i
 			break
 
@@ -96,3 +125,7 @@ with open('result.csv', 'wb') as f:
     f.write('\n')
     writer.writerows(m_data)
 
+ppp=open('ppp.geojson','w')
+ppp.write(res_json)
+ppp.write(']}')
+ppp.close()
