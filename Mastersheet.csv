@@ -12,7 +12,7 @@ Group 2,7/9/15,N,C,N,C,79,University Bay Marsh,"E: 0302323, N: 4772926",Coleopte
 Group 2,7/16/15,N,C,C,N,71,Biocore Prairie,"E: 0302335, N: 4773475",Coleoptera,Ox Aye
 Group 2,7/16/15,N,C,C,N,71,Biocore Prairie,"E: 0302330, N: 4773554",Coleoptera,Butterfly Milkweed
 Group 2,7/16/15,N,C,C,N,71,Biocore Prairie,"E: 0302298, N: 4773510",Opiliones,Ox Aye
-Group 2,7/16/15,N,C,C,N,71,Biocore Prairie,"E: 0302296, N:4773491",Hymenoptera,Ox Aye
+Group 2,7/16/15,N,C,C,N,71,Biocore Prairie,"E: 0302296, N: 4773491",Hymenoptera,Ox Aye
 Group 2,7/16/15,N,C,C,N,71,Biocore Prairie,"E: 0302351, N: 4773490",Hymenoptera,Spiderwort
 Group 2,7/16/15,N,C,C,N,71,Biocore Prairie,"E: 0302336, N: 4773510",Hymenoptera,Purple Cone Flower
 Group 2,7/16/15,N,C,C,N,71,Biocore Prairie,"E: 0302290, N: 4773458",Hymenoptera,Spiderwort
@@ -37,17 +37,17 @@ Group 2,7/24/15,N,C,C,N,81,Picnic Point Marsh,"E: 0302952, N: 4773345",Hymenopte
 Group 2,7/24/15,N,C,C,N,81,Picnic Point Marsh,"E: 0302956, N: 4773347",Coleoptera,Dandelion
 Group 2,7/24/15,N,C,C,N,81,Picnic Point Marsh,"E: 0302722, N: 4773353",Hymenoptera,Daisy Fleabane
 Group 2,7/24/15,N,C,C,N,81,Picnic Point Marsh,"E: 0302825, N: 4773216",Hymenoptera,Touch Me Not Balsam
-Group 7,6/23/15,N,PC,C,N,77,Willow Creek Woods,"E: 0303276, N:4772366",Diptera,Black Medic
+Group 7,6/23/15,N,PC,C,N,77,Willow Creek Woods,"E: 0303276, N: 4772366",Diptera,Black Medic
 Group 7,6/23/15,N,PC,C,N,77,Willow Creek Woods,"E: 0303276, N: 4772366",Lepidoptera,Bird-foot Tree-foil
 Group 7,6/23/15,N,PC,C,N,77,Willow Creek Woods,"E: 0303246, N: 4772373",Hymenoptera,Dandelion
-Group 7,6/23/15,N,PC,C,N,77,Willow Creek Woods,"E: 0303240, N:4772379",Lepidoptera,White Clover
-Group 7,6/23/15,N,PC,C,N,77,Willow Creek Woods,"E:0303240, N:4772379",Hymenoptera,Lanceleaf Coreopsis
-Group 7,6/23/15,N,PC,C,N,77,Willow Creek Woods,"E: 0303183, N:4772409",Diptera,Daisy Fleabane
-Group 7,6/23/15,N,PC,C,N,77,Willow Creek Woods,"E: 0303094, N:4772470",Diptera,Black Medic
+Group 7,6/23/15,N,PC,C,N,77,Willow Creek Woods,"E: 0303240, N: 4772379",Lepidoptera,White Clover
+Group 7,6/23/15,N,PC,C,N,77,Willow Creek Woods,"E: 0303240, N: 4772379",Hymenoptera,Lanceleaf Coreopsis
+Group 7,6/23/15,N,PC,C,N,77,Willow Creek Woods,"E: 0303183, N: 4772409",Diptera,Daisy Fleabane
+Group 7,6/23/15,N,PC,C,N,77,Willow Creek Woods,"E: 0303094, N: 4772470",Diptera,Black Medic
 Group 7,6/23/15,N,PC,C,N,77,Willow Creek Woods,"E: 0303034, N: 4772360",Diptera,Common Milkweed
 Group 7,6/23/15,N,PC,C,N,77,Willow Creek Woods,"E: 0303008, N: 4772349",Diptera,Daisy Fleabane
-Group 7,6/23/15,N,PC,C,N,77,Willow Creek Woods,"E: 0302981, N:4772324",Lepidoptera,Black Medic
-Group 7,7/2/15,N,PC,C,N,68,Eagle Heights Woods,"E: 0301005, N:4773313",Hymenoptera,Unknown
+Group 7,6/23/15,N,PC,C,N,77,Willow Creek Woods,"E: 0302981, N: 4772324",Lepidoptera,Black Medic
+Group 7,7/2/15,N,PC,C,N,68,Eagle Heights Woods,"E: 0301005, N: 4773313",Hymenoptera,Unknown
 Group 7,7/7/15,N,PC,LW,N,71,Biocore Prairie,"E: 0302335, N: 4773470",Hymenoptera,Red Clover
 Group 7,7/7/15,N,PC,LW,N,71,Biocore Prairie,"E: 0302332, N: 4773474",Hymenoptera,Red Clover
 Group 7,7/7/15,N,PC,LW,N,71,Biocore Prairie,"E: 0302327, N: 4773481",Hymenoptera,Red Clover
@@ -62,7 +62,7 @@ Group 7,7/7/15,N,PC,LW,N,71,Biocore Prairie,"E: 0302309, N: 4773545",Hymenoptera
 Group 7,7/7/15,N,PC,LW,N,71,Biocore Prairie,"E: 0302304, N: 4773559",Hymenoptera,Red Clover
 Group 7,7/7/15,N,PC,LW,N,71,Biocore Prairie,"E: 0302299, N: 4773618",Hymenoptera,Common Chicory
 Group 7,7/7/15,N,PC,LW,N,71,Biocore Prairie,"E: 0302308, N: 4773607",Diptera,Ox Aye
-Group 7,7/7/15,N,PC,LW,N,71,Biocore Prairie,"E: 0302278, N:4773607",Hymenoptera,Purple Cone Flower
+Group 7,7/7/15,N,PC,LW,N,71,Biocore Prairie,"E: 0302278, N: 4773607",Hymenoptera,Purple Cone Flower
 Group 7,7/7/15,N,PC,LW,N,71,Biocore Prairie,"E: 0302265, N: 3773618",Coleoptera,Purple Cone Flower
 Group 7,7/7/15,N,PC,LW,N,71,Biocore Prairie,"E: 0302256, N: 4773626",Hymenoptera,White Clover
 Group 7,7/7/15,N,PC,LW,N,71,Biocore Prairie,"E: 0302243, N: 4773632",Hymenoptera,White Clover
@@ -71,18 +71,18 @@ Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 0302276, N: 4773028",Hymenopt
 Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 0302271, N: 4773026",Hymenoptera,White Clover
 Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 0302278, N: 4773025",Hymenoptera,White Clover
 Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 0302275, N: 4773008",Hymenoptera,White Clover
-Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 302263, N: 4772998",Hymenoptera,White Clover
+Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 0302263, N: 4772998",Hymenoptera,White Clover
 Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 0302251, N: 4772991",Hymenoptera,White Clover
 Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 0302231, N: 4772986",Hymenoptera,White Clover
 Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 0302215, N: 4772981",Hymenoptera,White Clover
 Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 0302199, N: 4772981",Hymenoptera,White Clover
-Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 0302205, N:4772986",Hymenoptera,White Clover
+Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 0302205, N: 4772986",Hymenoptera,White Clover
 Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 0302180, N: 4773001",Hymenoptera,Common Milkweed
 Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 0302175, N: 4773001",Hemiptera,Common Milkweed
 Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 0302164, N: 4773016",Diptera,Common Milkweed
 Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 0302134, N: 4773004",Diptera,Daisy Fleabane
 Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 0302036, N: 4772996",Hymenoptera,Black Eyed Susan
-Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 003020, N: 4773009",Coleoptera,Daisy Fleabane
+Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 0302036, N: 4773009",Coleoptera,Daisy Fleabane
 Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 0302164, N: 4773016",Coleoptera,Unknown
 Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 0302162, N: 4773020",Hymenoptera,Bee Balm
 Group 7,7/14/15,N,O,C,N,75,Class of 1918 Marsh,"E: 0302036, N: 4772846",Hymenoptera,Indian Hemp
@@ -97,9 +97,9 @@ Group 7,7/21/15,N,C,C,N,75,Old Orchard and Field,"E: 0302451, N: 4773357",Coleop
 Group 7,7/21/15,N,C,C,N,75,Old Orchard and Field,"E: 0302459, N: 4773365",Lepidoptera,Common Milkweed
 Group 7,7/21/15,N,C,C,N,75,Old Orchard and Field,"E: 0302459, N: 4773353",Diptera,Milfoil
 Group 7,7/21/15,N,C,C,N,75,Old Orchard and Field,"E: 0302463, N: 4773354",Coleoptera,Common Milkweed
-Group 7,7/21/15,N,C,C,N,75,Old Orchard and Field,"E :0302463, N: 4773365",Diptera,Daisy Fleabane
+Group 7,7/21/15,N,C,C,N,75,Old Orchard and Field,"E: 0302463, N: 4773365",Diptera,Daisy Fleabane
 Group 3,6/26/15,N,O,LW,N,73,Big Woods,"E: 0301716, N: 4773177",Diptera,Daisy Fleabane
-Group 3,6/26/15,N,O,LW,N,73,Big Woods,"E: 0301652, N:4773176",Diptera,Milfoil
+Group 3,6/26/15,N,O,LW,N,73,Big Woods,"E: 0301652, N: 4773176",Diptera,Milfoil
 Group 3,6/26/15,N,O,LW,N,73,Big Woods,"E: 0301654, N: 4773975",Hymenoptera,Red Clover
 Group 3,6/26/15,N,O,LW,N,73,Big Woods,"E: 0301578, N: 4772927",Diptera,Daisy Fleabane
 Group 3,6/26/15,N,O,LW,N,73,Big Woods,"E: 0301753, N: 4773086",Diptera,Sorrel
@@ -144,7 +144,7 @@ Group 3,7/14/15,N,C,LW,N,78,Picnic Point,"E: 0303388, N: 4773604",Hymenoptera,Ox
 Group 3,7/14/15,N,C,LW,N,78,Picnic Point,"E: 0303388, N: 4773587",Hymenoptera,Tall Bellflower
 Group 3,7/14/15,N,C,LW,N,78,Picnic Point,"E: 0303387, N: 4773586",Hymenoptera,Butterfly Milkweed
 Group 3,7/14/15,N,C,LW,N,78,Picnic Point,"E: 0303387, N: 4773586",Hymenoptera,Wild Mint
-Group 3,7/14/15,N,C,LW,N,78,Picnic Point,"E:0303373, N: 4773594",Hymenoptera,Bee Balm
+Group 3,7/14/15,N,C,LW,N,78,Picnic Point,"E: 0303373, N: 4773594",Hymenoptera,Bee Balm
 Group 3,7/14/15,N,C,LW,N,78,Picnic Point,"E: 0303399, N: 4773616",Diptera,Bee Balm
 Group 3,7/14/15,N,C,LW,N,78,Picnic Point,"E: 0303400, N: 4773616",Hymenoptera,Milfoil
 Group 3,7/14/15,N,C,LW,N,78,Picnic Point,"E: 0303358, N: 4773569",Hymenoptera,Black Eyed Susan
@@ -161,11 +161,11 @@ Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302296, N: 4773500",Hymenopter
 Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302293, N: 4773528",Diptera,Daisy Fleabane
 Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302303, N: 4773559",Diptera,Daisy Fleabane
 Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302305, N: 4773571",Diptera,Black Eyed Susan
-Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302306, N:4773616",Diptera,Common Cinquefoil
+Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302306, N: 4773616",Diptera,Common Cinquefoil
 Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302329, N: 4773635",Coleoptera,Ox Aye
-Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302346, N:4773629",Diptera,Daisy Fleabane
+Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302346, N: 4773629",Diptera,Daisy Fleabane
 Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302347, N: 4773627",Hymenoptera,Ox Aye
-Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302350, N:4773615",Diptera,Common Cinquefoil
+Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302350, N: 4773615",Diptera,Common Cinquefoil
 Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302353, N: 4773590",Coleoptera,Red Clover
 Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302350, N: 4773552",Coleoptera,Red Clover
 Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302346, N: 4773548",Diptera,Common Cinquefoil
@@ -180,17 +180,17 @@ Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302347, N: 4773482",Diptera,Ox
 Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302307, N: 4773473",Diptera,Common Cinquefoil
 Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302307, N: 477373",Hymenoptera,Common Cinquefoil
 Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302306, N: 4773495",Diptera,Ox Aye
-Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E:0302299, N: 4773496",Coleoptera,Purple Cone Flower
+Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302299, N: 4773496",Coleoptera,Purple Cone Flower
 Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302297, N: 4773508",Hymenoptera,Ox Aye
 Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302304, N: 4773609",Coleoptera,Red Clover
 Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302305, N: 4773617",Coleoptera,Red Clover
 Group 5,6/22/15,N,PC,LW,N,79,Biocore Prairie,"E: 0302320, N: 4773476",Diptera,Ox Aye
 Group 5,6/29/15,N,PC,LW,N,77,Big Wood,"E: 0301560, N: 4773173",Hymenoptera,Yellow Sweet Clover
 Group 5,6/29/15,N,PC,LW,N,77,Big Wood,"E: 0301576, N: 4773173",Hemiptera,Yellow Sweet Clover
-Group 5,6/29/15,N,PC,LW,N,77,Big Wood,"E: 0301573, N:4773174",Hemiptera,Daisy Fleabane
-Group 5,6/29/15,N,PC,LW,N,77,Big Wood,"E: 0301574, N:4773171",Coleoptera,White Avens
+Group 5,6/29/15,N,PC,LW,N,77,Big Wood,"E: 0301573, N: 4773174",Hemiptera,Daisy Fleabane
+Group 5,6/29/15,N,PC,LW,N,77,Big Wood,"E: 0301574, N: 4773171",Coleoptera,White Avens
 Group 5,7/6/15,N,C,LW,C,71,Class of 1918 Marsh,"E: 0301996, N: 4772936",Hemiptera,Canadian Thistle
-Group 5,7/6/15,N,C,LW,C,71,Class of 1918 Marsh,"E: 0301998, N:4772932",Diptera,Daisy Fleabane
+Group 5,7/6/15,N,C,LW,C,71,Class of 1918 Marsh,"E: 0301998, N: 4772932",Diptera,Daisy Fleabane
 Group 5,7/6/15,N,C,LW,C,71,Class of 1918 Marsh,"E: 0301997, N: 4772931",Hymenoptera,Common Milkweed
 Group 5,7/6/15,N,C,LW,C,71,Class of 1918 Marsh,"E: 0302021, N: 4772956",Hymenoptera,Crown Vetch
 Group 5,7/6/15,N,C,LW,C,71,Class of 1918 Marsh,"E: 0302017, N: 4772952",Hymenoptera,White Clover
@@ -238,7 +238,7 @@ Group 5,7/13/15,Y,PC,C,N,77,Picnic Point,"E: 0303388, N: 4773604",Hemiptera,Purp
 Group 5,7/13/15,Y,PC,C,N,77,Picnic Point,"E: 0303388, N: 4773587",Hemiptera,Cup Plant
 Group 5,7/13/15,Y,PC,C,N,77,Picnic Point,"E: 0303387, N: 4773586",Hymenoptera,Bee Balm
 Group 5,7/13/15,Y,PC,C,N,77,Picnic Point,"E: 0303387, N: 4773586",Hymenoptera,Bee Balm
-Group 5,7/13/15,Y,PC,C,N,77,Picnic Point,"E:0303373, N: 4773594",Hemiptera,Cup Plant
+Group 5,7/13/15,Y,PC,C,N,77,Picnic Point,"E: 0303373, N: 4773594",Hemiptera,Cup Plant
 Group 5,7/13/15,Y,PC,C,N,77,Picnic Point,"E: 0303399, N: 4773616",Hymenoptera,Purple Cone Flower
 Group 5,7/13/15,Y,PC,C,N,77,Picnic Point,"E: 0303400, N: 4773616",Hymenoptera,Spotted Mint
 Group 5,7/13/15,Y,PC,C,N,77,Picnic Point,"E: 0303358, N: 4773569",Hymenoptera,Bee Balm
