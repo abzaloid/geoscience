@@ -1,4 +1,4 @@
-Observer,Date,Precipitation,Cloud,Fog ,Wind,Temperature ,Location,UTM,Order,Plant
+Observer,Date,Precipitation,Cloud,Fog ,Wind,Temperature ,Name,UTM,Order,Plant
 Group 2,6/25/15,N,PC,N,LW,77,Caretaker's Woods,"E: 0302660, N: 4773277",Coleoptera,White Avens 
 Group 2,6/30/15,N,C,N,C,77,Tent Colony Woods,"E: 0301644, N: 4773744",Coleoptera,White Avens 
 Group 2,6/30/15,N,C,N,C,77,Tent Colony Woods,"E: 0301646, N: 4773743",Diptera,White Avens 

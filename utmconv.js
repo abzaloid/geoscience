@@ -72,7 +72,7 @@ var utmconv = {
     ///     utmz: utm zone
     ///     southern: bool indicating coords are in southern hemisphere
     ///
-    utmToLatLng: function(x, y, utmz, southern) {
+    utmToLat: function(x, y, utmz, southern) {
         var esq = (1 - (this.b / this.a) * (this.b / this.a));
         var e0sq = this.e * this.e / (1 - Math.pow(this.e, 2));
         var zcm = 3 + 6 * (utmz - 1) - 180;                         // Central meridian of zone
@@ -101,19 +101,43 @@ var utmconv = {
         var lng = D * (1 + D * D * ((-1 - 2 * T1 - C1) / 6 + D * D * (5 - 2 * C1 + 28 * T1 - 3 * C1 * C1 + 8 * e0sq + 24 * T1 * T1) / 120)) / Math.cos(phi1);
         lng = lngd = zcm + lng / this.drad;
 
-        return { lat: lat, lng: lng };
+        return lat;
+    },
+    utmToLng: function(x, y, utmz, southern) {
+        var esq = (1 - (this.b / this.a) * (this.b / this.a));
+        var e0sq = this.e * this.e / (1 - Math.pow(this.e, 2));
+        var zcm = 3 + 6 * (utmz - 1) - 180;                         // Central meridian of zone
+        var e1 = (1 - Math.sqrt(1 - Math.pow(this.e, 2))) / (1 + Math.sqrt(1 - Math.pow(this.e, 2)));
+        var M0 = 0;
+        var M = 0;
+
+        if (!southern)
+            M = M0 + y / this.k0;    // Arc length along standard meridian. 
+        else
+            M = M0 + (y - 10000000) / this.k;
+
+        var mu = M / (this.a * (1 - esq * (1 / 4 + esq * (3 / 64 + 5 * esq / 256))));
+        var phi1 = mu + e1 * (3 / 2 - 27 * e1 * e1 / 32) * Math.sin(2 * mu) + e1 * e1 * (21 / 16 - 55 * e1 * e1 / 32) * Math.sin(4 * mu);   //Footprint Latitude
+        phi1 = phi1 + e1 * e1 * e1 * (Math.sin(6 * mu) * 151 / 96 + e1 * Math.sin(8 * mu) * 1097 / 512);
+        var C1 = e0sq * Math.pow(Math.cos(phi1), 2);
+        var T1 = Math.pow(Math.tan(phi1), 2);
+        var N1 = this.a / Math.sqrt(1 - Math.pow(this.e * Math.sin(phi1), 2));
+        var R1 = N1 * (1 - Math.pow(this.e, 2)) / (1 - Math.pow(this.e * Math.sin(phi1), 2));
+        var D = (x - 500000) / (N1 * this.k0);
+        var phi = (D * D) * (1 / 2 - D * D * (5 + 3 * T1 + 10 * C1 - 4 * C1 * C1 - 9 * e0sq) / 24);
+        phi = phi + Math.pow(D, 6) * (61 + 90 * T1 + 298 * C1 + 45 * T1 * T1 - 252 * e0sq - 3 * C1 * C1) / 720;
+        phi = phi1 - (N1 * Math.tan(phi1) / R1) * phi;
+
+        var lat = Math.floor(1000000 * phi / this.drad) / 1000000;
+        var lng = D * (1 + D * D * ((-1 - 2 * T1 - C1) / 6 + D * D * (5 - 2 * C1 + 28 * T1 - 3 * C1 * C1 + 8 * e0sq + 24 * T1 * T1) / 120)) / Math.cos(phi1);
+        lng = lngd = zcm + lng / this.drad;
+
+        return lng;
     },
 
 
    
 }
-
-
-utmconv.setDatum(0);    // Northern hemisphere
-zone = 16               // for Madison, WI
-var latlon = utmconv.utmToLatLng(easting, northing, zone, false);
-
-console.log(latlon);
 
 
 
