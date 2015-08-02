@@ -14,8 +14,8 @@
 "Cloud": "PC",
 "Temperature ": "77",
 "Name": "Caretaker's Woods",
-"Order": "E: 0302660, N: 4773277",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "White Avens ",
 }},
 			  		{
 			            "geometry": {
@@ -32,8 +32,8 @@
 "Cloud": "C",
 "Temperature ": "77",
 "Name": "Tent Colony Woods",
-"Order": "E: 0301644, N: 4773744",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "White Avens ",
 }},
 			  		{
 			            "geometry": {
@@ -50,8 +50,8 @@
 "Cloud": "C",
 "Temperature ": "77",
 "Name": "Tent Colony Woods",
-"Order": "E: 0301646, N: 4773743",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "White Avens ",
 }},
 			  		{
 			            "geometry": {
@@ -68,8 +68,8 @@
 "Cloud": "C",
 "Temperature ": "79",
 "Name": "University Bay Marsh",
-"Order": "E: 0302370, N: 4772787",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Canadian Thistle",
 }},
 			  		{
 			            "geometry": {
@@ -86,8 +86,8 @@
 "Cloud": "C",
 "Temperature ": "79",
 "Name": "University Bay Marsh",
-"Order": "E: 0302386, N: 4772772",
-"Plant": "Hemiptera",
+"Order": "Hemiptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -104,8 +104,8 @@
 "Cloud": "C",
 "Temperature ": "79",
 "Name": "University Bay Marsh",
-"Order": "E: 0302383, N: 4772774",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -122,8 +122,8 @@
 "Cloud": "C",
 "Temperature ": "79",
 "Name": "University Bay Marsh",
-"Order": "E: 0302388, N: 4772773",
-"Plant": "Hemiptera",
+"Order": "Hemiptera",
+"Plant": "Black Eyed Susan",
 }},
 			  		{
 			            "geometry": {
@@ -140,8 +140,8 @@
 "Cloud": "C",
 "Temperature ": "79",
 "Name": "University Bay Marsh",
-"Order": "E: 0302398, N: 4772765",
-"Plant": "Lepidoptera",
+"Order": "Lepidoptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -158,8 +158,8 @@
 "Cloud": "C",
 "Temperature ": "79",
 "Name": "University Bay Marsh",
-"Order": "E: 0302417, N: 4772748",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Unknown",
 }},
 			  		{
 			            "geometry": {
@@ -176,8 +176,8 @@
 "Cloud": "C",
 "Temperature ": "79",
 "Name": "University Bay Marsh",
-"Order": "E: 0302323, N: 4772926",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Red Clover",
 }},
 			  		{
 			            "geometry": {
@@ -195,8 +195,8 @@
 "Wind": "C",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302335, N: 4773475",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -214,8 +214,8 @@
 "Wind": "C",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302330, N: 4773554",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Butterfly Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -233,8 +233,8 @@
 "Wind": "C",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302298, N: 4773510",
-"Plant": "Opiliones",
+"Order": "Opiliones",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -252,8 +252,8 @@
 "Wind": "C",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302296, N: 4773491",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -271,8 +271,8 @@
 "Wind": "C",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302351, N: 4773490",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Spiderwort",
 }},
 			  		{
 			            "geometry": {
@@ -290,8 +290,8 @@
 "Wind": "C",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302336, N: 4773510",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Purple Cone Flower",
 }},
 			  		{
 			            "geometry": {
@@ -309,8 +309,8 @@
 "Wind": "C",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302290, N: 4773458",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Spiderwort",
 }},
 			  		{
 			            "geometry": {
@@ -328,8 +328,8 @@
 "Wind": "C",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302273, N: 4773442",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -347,8 +347,8 @@
 "Wind": "C",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302316, N: 4773550",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Spiderwort",
 }},
 			  		{
 			            "geometry": {
@@ -366,8 +366,8 @@
 "Wind": "C",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302298, N: 4773473",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -385,8 +385,8 @@
 "Wind": "C",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302270, N: 4773482",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Purple Cone Flower",
 }},
 			  		{
 			            "geometry": {
@@ -404,8 +404,8 @@
 "Wind": "C",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302286, N: 4773413",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Spiderwort",
 }},
 			  		{
 			            "geometry": {
@@ -423,8 +423,8 @@
 "Wind": "C",
 "Temperature ": "81",
 "Name": "Picnic Point Marsh",
-"Order": "E: 0303059, N: 4773361",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Canadian Thistle",
 }},
 			  		{
 			            "geometry": {
@@ -442,8 +442,8 @@
 "Wind": "C",
 "Temperature ": "81",
 "Name": "Picnic Point Marsh",
-"Order": "E: 0303056, N: 4773361",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Touch Me Not Balsam",
 }},
 			  		{
 			            "geometry": {
@@ -461,8 +461,8 @@
 "Wind": "C",
 "Temperature ": "81",
 "Name": "Picnic Point Marsh",
-"Order": "E: 0303059, N: 4773361",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Woody Nightshade",
 }},
 			  		{
 			            "geometry": {
@@ -480,8 +480,8 @@
 "Wind": "C",
 "Temperature ": "81",
 "Name": "Picnic Point Marsh",
-"Order": "E: 0303042, N: 4773358",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Dandelion",
 }},
 			  		{
 			            "geometry": {
@@ -499,8 +499,8 @@
 "Wind": "C",
 "Temperature ": "81",
 "Name": "Picnic Point Marsh",
-"Order": "E: 0302969, N: 4773343",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Black Eyed Susan",
 }},
 			  		{
 			            "geometry": {
@@ -518,8 +518,8 @@
 "Wind": "C",
 "Temperature ": "81",
 "Name": "Picnic Point Marsh",
-"Order": "E: 0302969, N: 4773343",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Black Eyed Susan",
 }},
 			  		{
 			            "geometry": {
@@ -537,8 +537,8 @@
 "Wind": "C",
 "Temperature ": "81",
 "Name": "Picnic Point Marsh",
-"Order": "E: 0302966, N: 4773339",
-"Plant": "Opiliones",
+"Order": "Opiliones",
+"Plant": "Bonset",
 }},
 			  		{
 			            "geometry": {
@@ -556,8 +556,8 @@
 "Wind": "C",
 "Temperature ": "81",
 "Name": "Picnic Point Marsh",
-"Order": "E: 0302966, N: 4773339",
-"Plant": "Opiliones",
+"Order": "Opiliones",
+"Plant": "Unknown",
 }},
 			  		{
 			            "geometry": {
@@ -575,8 +575,8 @@
 "Wind": "C",
 "Temperature ": "81",
 "Name": "Picnic Point Marsh",
-"Order": "E: 0302961, N: 4773340",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Lamium",
 }},
 			  		{
 			            "geometry": {
@@ -594,8 +594,8 @@
 "Wind": "C",
 "Temperature ": "81",
 "Name": "Picnic Point Marsh",
-"Order": "E: 0302951, N: 4773342",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Lamium",
 }},
 			  		{
 			            "geometry": {
@@ -613,8 +613,8 @@
 "Wind": "C",
 "Temperature ": "81",
 "Name": "Picnic Point Marsh",
-"Order": "E: 0302951, N: 4773342",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Lamium",
 }},
 			  		{
 			            "geometry": {
@@ -632,8 +632,8 @@
 "Wind": "C",
 "Temperature ": "81",
 "Name": "Picnic Point Marsh",
-"Order": "E: 0302952, N: 4773341",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Unknown",
 }},
 			  		{
 			            "geometry": {
@@ -651,8 +651,8 @@
 "Wind": "C",
 "Temperature ": "81",
 "Name": "Picnic Point Marsh",
-"Order": "E: 0302952, N: 4773345",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Dandelion",
 }},
 			  		{
 			            "geometry": {
@@ -670,8 +670,8 @@
 "Wind": "C",
 "Temperature ": "81",
 "Name": "Picnic Point Marsh",
-"Order": "E: 0302956, N: 4773347",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Dandelion",
 }},
 			  		{
 			            "geometry": {
@@ -689,8 +689,8 @@
 "Wind": "C",
 "Temperature ": "81",
 "Name": "Picnic Point Marsh",
-"Order": "E: 0302722, N: 4773353",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -708,8 +708,8 @@
 "Wind": "C",
 "Temperature ": "81",
 "Name": "Picnic Point Marsh",
-"Order": "E: 0302825, N: 4773216",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Touch Me Not Balsam",
 }},
 			  		{
 			            "geometry": {
@@ -727,8 +727,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Willow Creek Woods",
-"Order": "E: 0303276, N: 4772366",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Black Medic",
 }},
 			  		{
 			            "geometry": {
@@ -746,8 +746,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Willow Creek Woods",
-"Order": "E: 0303276, N: 4772366",
-"Plant": "Lepidoptera",
+"Order": "Lepidoptera",
+"Plant": "Bird-foot Tree-foil",
 }},
 			  		{
 			            "geometry": {
@@ -765,8 +765,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Willow Creek Woods",
-"Order": "E: 0303246, N: 4772373",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Dandelion",
 }},
 			  		{
 			            "geometry": {
@@ -784,8 +784,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Willow Creek Woods",
-"Order": "E: 0303240, N: 4772379",
-"Plant": "Lepidoptera",
+"Order": "Lepidoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -803,8 +803,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Willow Creek Woods",
-"Order": "E: 0303240, N: 4772379",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Lanceleaf Coreopsis",
 }},
 			  		{
 			            "geometry": {
@@ -822,8 +822,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Willow Creek Woods",
-"Order": "E: 0303183, N: 4772409",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -841,8 +841,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Willow Creek Woods",
-"Order": "E: 0303094, N: 4772470",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Black Medic",
 }},
 			  		{
 			            "geometry": {
@@ -860,8 +860,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Willow Creek Woods",
-"Order": "E: 0303034, N: 4772360",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -879,8 +879,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Willow Creek Woods",
-"Order": "E: 0303008, N: 4772349",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -898,8 +898,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Willow Creek Woods",
-"Order": "E: 0302981, N: 4772324",
-"Plant": "Lepidoptera",
+"Order": "Lepidoptera",
+"Plant": "Black Medic",
 }},
 			  		{
 			            "geometry": {
@@ -917,8 +917,8 @@
 "Wind": "C",
 "Temperature ": "68",
 "Name": "Eagle Heights Woods",
-"Order": "E: 0301005, N: 4773313",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Unknown",
 }},
 			  		{
 			            "geometry": {
@@ -936,8 +936,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302335, N: 4773470",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Red Clover",
 }},
 			  		{
 			            "geometry": {
@@ -955,8 +955,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302332, N: 4773474",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Red Clover",
 }},
 			  		{
 			            "geometry": {
@@ -974,8 +974,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302327, N: 4773481",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Red Clover",
 }},
 			  		{
 			            "geometry": {
@@ -993,8 +993,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302314, N: 4773469",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Red Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1012,8 +1012,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302298, N: 4773465",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Red Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1031,8 +1031,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302275, N: 4773454",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Red Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1050,8 +1050,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302282, N: 4773468",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1069,8 +1069,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302304, N: 4773488",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Red Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1088,8 +1088,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302316, N: 4773502",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1107,8 +1107,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302321, N: 4773531",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Red Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1126,8 +1126,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302309, N: 4773545",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1145,8 +1145,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302304, N: 4773559",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Red Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1164,8 +1164,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302299, N: 4773618",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Common Chicory",
 }},
 			  		{
 			            "geometry": {
@@ -1183,8 +1183,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302308, N: 4773607",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -1202,8 +1202,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302278, N: 4773607",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Purple Cone Flower",
 }},
 			  		{
 			            "geometry": {
@@ -1240,8 +1240,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302256, N: 4773626",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1259,8 +1259,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302243, N: 4773632",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1278,8 +1278,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Biocore Prairie",
-"Order": "E: 0302221, N: 4773635",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Culver's Root",
 }},
 			  		{
 			            "geometry": {
@@ -1297,8 +1297,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302276, N: 4773028",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1316,8 +1316,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302271, N: 4773026",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1335,8 +1335,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302278, N: 4773025",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1354,8 +1354,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302275, N: 4773008",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1373,8 +1373,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302263, N: 4772998",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1392,8 +1392,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302251, N: 4772991",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1411,8 +1411,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302231, N: 4772986",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1430,8 +1430,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302215, N: 4772981",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1449,8 +1449,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302199, N: 4772981",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1468,8 +1468,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302205, N: 4772986",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1487,8 +1487,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302180, N: 4773001",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -1506,8 +1506,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302175, N: 4773001",
-"Plant": "Hemiptera",
+"Order": "Hemiptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -1525,8 +1525,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302164, N: 4773016",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -1544,8 +1544,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302134, N: 4773004",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -1563,8 +1563,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302036, N: 4772996",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Black Eyed Susan",
 }},
 			  		{
 			            "geometry": {
@@ -1582,8 +1582,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302036, N: 4773009",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -1601,8 +1601,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302164, N: 4773016",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Unknown",
 }},
 			  		{
 			            "geometry": {
@@ -1620,8 +1620,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302162, N: 4773020",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Bee Balm",
 }},
 			  		{
 			            "geometry": {
@@ -1639,8 +1639,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302036, N: 4772846",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Indian Hemp",
 }},
 			  		{
 			            "geometry": {
@@ -1658,8 +1658,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0301985, N: 4772852",
-"Plant": "Lepidoptera",
+"Order": "Lepidoptera",
+"Plant": "Indian Hemp",
 }},
 			  		{
 			            "geometry": {
@@ -1677,8 +1677,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0301936, N: 4772801",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1696,8 +1696,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302162, N: 4773020",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -1715,8 +1715,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302036, N: 4772846",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Swamp Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -1734,8 +1734,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0301985, N: 4772852",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -1753,8 +1753,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0301936, N: 4772801",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -1772,8 +1772,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0301936, N: 4772801",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Spear Thistle",
 }},
 			  		{
 			            "geometry": {
@@ -1791,8 +1791,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Old Orchard and Field",
-"Order": "E: 0302451, N: 4773357",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -1810,8 +1810,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Old Orchard and Field",
-"Order": "E: 0302459, N: 4773365",
-"Plant": "Lepidoptera",
+"Order": "Lepidoptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -1829,8 +1829,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Old Orchard and Field",
-"Order": "E: 0302459, N: 4773353",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Milfoil",
 }},
 			  		{
 			            "geometry": {
@@ -1848,8 +1848,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Old Orchard and Field",
-"Order": "E: 0302463, N: 4773354",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -1867,8 +1867,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Old Orchard and Field",
-"Order": "E: 0302463, N: 4773365",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -1886,8 +1886,8 @@
 "Wind": "LW",
 "Temperature ": "73",
 "Name": "Big Woods",
-"Order": "E: 0301716, N: 4773177",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -1905,8 +1905,8 @@
 "Wind": "LW",
 "Temperature ": "73",
 "Name": "Big Woods",
-"Order": "E: 0301652, N: 4773176",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Milfoil",
 }},
 			  		{
 			            "geometry": {
@@ -1924,8 +1924,8 @@
 "Wind": "LW",
 "Temperature ": "73",
 "Name": "Big Woods",
-"Order": "E: 0301654, N: 4773975",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Red Clover",
 }},
 			  		{
 			            "geometry": {
@@ -1943,8 +1943,8 @@
 "Wind": "LW",
 "Temperature ": "73",
 "Name": "Big Woods",
-"Order": "E: 0301578, N: 4772927",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -1962,8 +1962,8 @@
 "Wind": "LW",
 "Temperature ": "73",
 "Name": "Big Woods",
-"Order": "E: 0301753, N: 4773086",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Sorrel",
 }},
 			  		{
 			            "geometry": {
@@ -1981,8 +1981,8 @@
 "Wind": "LW",
 "Temperature ": "73",
 "Name": "Big Woods",
-"Order": "E: 0301775, N: 4773101",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -2000,8 +2000,8 @@
 "Wind": "LW",
 "Temperature ": "73",
 "Name": "Big Woods",
-"Order": "E: 0301832, N: 4773131",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Unknown",
 }},
 			  		{
 			            "geometry": {
@@ -2019,8 +2019,8 @@
 "Wind": "LW",
 "Temperature ": "73",
 "Name": "Big Woods",
-"Order": "E: 0301872, N: 4773220",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Wild Mint",
 }},
 			  		{
 			            "geometry": {
@@ -2038,8 +2038,8 @@
 "Wind": "LW",
 "Temperature ": "73",
 "Name": "Big Woods",
-"Order": "E: 0301859, N: 4773194",
-"Plant": "Hemiptera",
+"Order": "Hemiptera",
+"Plant": "Unknown",
 }},
 			  		{
 			            "geometry": {
@@ -2057,8 +2057,8 @@
 "Wind": "LW",
 "Temperature ": "73",
 "Name": "Big Woods",
-"Order": "E: 0301817, N: 4773213",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Bird-foot Tree-foil",
 }},
 			  		{
 			            "geometry": {
@@ -2076,8 +2076,8 @@
 "Wind": "LW",
 "Temperature ": "73",
 "Name": "Big Woods",
-"Order": "E: 0301808, N: 4773211",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Unknown",
 }},
 			  		{
 			            "geometry": {
@@ -2095,8 +2095,8 @@
 "Wind": "LW",
 "Temperature ": "73",
 "Name": "Big Woods",
-"Order": "E: 0301805, N: 4773210",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Unknown",
 }},
 			  		{
 			            "geometry": {
@@ -2114,8 +2114,8 @@
 "Wind": "LW",
 "Temperature ": "73",
 "Name": "Big Woods",
-"Order": "E: 0301727, N: 4773004",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -2133,8 +2133,8 @@
 "Wind": "LW",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302224, N: 4772976",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -2152,8 +2152,8 @@
 "Wind": "LW",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302222, N: 4772976",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -2171,8 +2171,8 @@
 "Wind": "LW",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302209, N: 4772983",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -2190,8 +2190,8 @@
 "Wind": "LW",
 "Temperature ": "75",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302205, N: 4772987",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -2209,8 +2209,8 @@
 "Wind": "LW",
 "Temperature ": "78",
 "Name": "Picnic Point",
-"Order": "E: 0303183, N: 4773397",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Butterfly Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -2228,8 +2228,8 @@
 "Wind": "LW",
 "Temperature ": "78",
 "Name": "Picnic Point",
-"Order": "E: 0303170, N: 4773391",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -2247,8 +2247,8 @@
 "Wind": "LW",
 "Temperature ": "78",
 "Name": "Picnic Point",
-"Order": "E: 0303388, N: 4773587",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -2266,8 +2266,8 @@
 "Wind": "LW",
 "Temperature ": "78",
 "Name": "Picnic Point",
-"Order": "E: 0303386, N: 4773587",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -2285,8 +2285,8 @@
 "Wind": "LW",
 "Temperature ": "78",
 "Name": "Picnic Point",
-"Order": "E: 0303418, N: 4773617",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -2304,8 +2304,8 @@
 "Wind": "LW",
 "Temperature ": "78",
 "Name": "Picnic Point",
-"Order": "E: 0303388, N: 4773604",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -2323,8 +2323,8 @@
 "Wind": "LW",
 "Temperature ": "78",
 "Name": "Picnic Point",
-"Order": "E: 0303388, N: 4773587",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Tall Bellflower",
 }},
 			  		{
 			            "geometry": {
@@ -2342,8 +2342,8 @@
 "Wind": "LW",
 "Temperature ": "78",
 "Name": "Picnic Point",
-"Order": "E: 0303387, N: 4773586",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Butterfly Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -2361,8 +2361,8 @@
 "Wind": "LW",
 "Temperature ": "78",
 "Name": "Picnic Point",
-"Order": "E: 0303387, N: 4773586",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Wild Mint",
 }},
 			  		{
 			            "geometry": {
@@ -2380,8 +2380,8 @@
 "Wind": "LW",
 "Temperature ": "78",
 "Name": "Picnic Point",
-"Order": "E: 0303373, N: 4773594",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Bee Balm",
 }},
 			  		{
 			            "geometry": {
@@ -2399,8 +2399,8 @@
 "Wind": "LW",
 "Temperature ": "78",
 "Name": "Picnic Point",
-"Order": "E: 0303399, N: 4773616",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Bee Balm",
 }},
 			  		{
 			            "geometry": {
@@ -2418,8 +2418,8 @@
 "Wind": "LW",
 "Temperature ": "78",
 "Name": "Picnic Point",
-"Order": "E: 0303400, N: 4773616",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Milfoil",
 }},
 			  		{
 			            "geometry": {
@@ -2437,8 +2437,8 @@
 "Wind": "LW",
 "Temperature ": "78",
 "Name": "Picnic Point",
-"Order": "E: 0303358, N: 4773569",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Black Eyed Susan",
 }},
 			  		{
 			            "geometry": {
@@ -2456,8 +2456,8 @@
 "Wind": "LW",
 "Temperature ": "78",
 "Name": "Picnic Point",
-"Order": "E: 0303023, N: 4773298",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Bee Balm",
 }},
 			  		{
 			            "geometry": {
@@ -2475,8 +2475,8 @@
 "Wind": "LW",
 "Temperature ": "78",
 "Name": "Picnic Point",
-"Order": "E: 0303023, N: 4773298",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Wild Mint",
 }},
 			  		{
 			            "geometry": {
@@ -2494,8 +2494,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302334, N: 4773476",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Unknown",
 }},
 			  		{
 			            "geometry": {
@@ -2513,8 +2513,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302314, N: 4773471",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -2532,8 +2532,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302305, N: 4773470",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Common Cinquefoil",
 }},
 			  		{
 			            "geometry": {
@@ -2551,8 +2551,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302310, N: 4773470",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Common Cinquefoil",
 }},
 			  		{
 			            "geometry": {
@@ -2570,8 +2570,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302307, N: 4773472",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -2589,8 +2589,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302308, N: 4773478",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -2608,8 +2608,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302295, N: 4773500",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Purple Cone Flower",
 }},
 			  		{
 			            "geometry": {
@@ -2627,8 +2627,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302296, N: 4773500",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Purple Cone Flower",
 }},
 			  		{
 			            "geometry": {
@@ -2646,8 +2646,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302293, N: 4773528",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -2665,8 +2665,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302303, N: 4773559",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -2684,8 +2684,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302305, N: 4773571",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Black Eyed Susan",
 }},
 			  		{
 			            "geometry": {
@@ -2703,8 +2703,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302306, N: 4773616",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Common Cinquefoil",
 }},
 			  		{
 			            "geometry": {
@@ -2722,8 +2722,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302329, N: 4773635",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -2741,8 +2741,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302346, N: 4773629",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -2760,8 +2760,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302347, N: 4773627",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -2779,8 +2779,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302350, N: 4773615",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Common Cinquefoil",
 }},
 			  		{
 			            "geometry": {
@@ -2798,8 +2798,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302353, N: 4773590",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Red Clover",
 }},
 			  		{
 			            "geometry": {
@@ -2817,8 +2817,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302350, N: 4773552",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Red Clover",
 }},
 			  		{
 			            "geometry": {
@@ -2836,8 +2836,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302346, N: 4773548",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Common Cinquefoil",
 }},
 			  		{
 			            "geometry": {
@@ -2855,8 +2855,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302350, N: 4773495",
-"Plant": "Hemiptera",
+"Order": "Hemiptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -2874,8 +2874,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302299, N: 4773493",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Purple Cone Flower",
 }},
 			  		{
 			            "geometry": {
@@ -2893,8 +2893,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302313, N: 4773524",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -2912,8 +2912,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302312, N: 4773524",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Common Cinquefoil",
 }},
 			  		{
 			            "geometry": {
@@ -2931,8 +2931,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302314, N: 4773535",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Common Cinquefoil",
 }},
 			  		{
 			            "geometry": {
@@ -2950,8 +2950,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302311, N: 4773533",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -2969,8 +2969,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302301, N: 4773535",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -2988,8 +2988,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302347, N: 4773482",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -3007,8 +3007,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302307, N: 4773473",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Common Cinquefoil",
 }},
 			  		{
 			            "geometry": {
@@ -3026,8 +3026,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302307, N: 477373",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Common Cinquefoil",
 }},
 			  		{
 			            "geometry": {
@@ -3045,8 +3045,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302306, N: 4773495",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -3064,8 +3064,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302299, N: 4773496",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Purple Cone Flower",
 }},
 			  		{
 			            "geometry": {
@@ -3083,8 +3083,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302297, N: 4773508",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -3102,8 +3102,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302304, N: 4773609",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Red Clover",
 }},
 			  		{
 			            "geometry": {
@@ -3121,8 +3121,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302305, N: 4773617",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Red Clover",
 }},
 			  		{
 			            "geometry": {
@@ -3140,8 +3140,8 @@
 "Wind": "LW",
 "Temperature ": "79",
 "Name": "Biocore Prairie",
-"Order": "E: 0302320, N: 4773476",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -3159,8 +3159,8 @@
 "Wind": "LW",
 "Temperature ": "77",
 "Name": "Big Woods",
-"Order": "E: 0301560, N: 4773173",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Yellow Sweet Clover",
 }},
 			  		{
 			            "geometry": {
@@ -3178,8 +3178,8 @@
 "Wind": "LW",
 "Temperature ": "77",
 "Name": "Big Woods",
-"Order": "E: 0301576, N: 4773173",
-"Plant": "Hemiptera",
+"Order": "Hemiptera",
+"Plant": "Yellow Sweet Clover",
 }},
 			  		{
 			            "geometry": {
@@ -3197,8 +3197,8 @@
 "Wind": "LW",
 "Temperature ": "77",
 "Name": "Big Woods",
-"Order": "E: 0301573, N: 4773174",
-"Plant": "Hemiptera",
+"Order": "Hemiptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -3216,8 +3216,8 @@
 "Wind": "LW",
 "Temperature ": "77",
 "Name": "Big Woods",
-"Order": "E: 0301574, N: 4773171",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "White Avens",
 }},
 			  		{
 			            "geometry": {
@@ -3235,8 +3235,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0301996, N: 4772936",
-"Plant": "Hemiptera",
+"Order": "Hemiptera",
+"Plant": "Canadian Thistle",
 }},
 			  		{
 			            "geometry": {
@@ -3254,8 +3254,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0301998, N: 4772932",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -3273,8 +3273,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0301997, N: 4772931",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -3292,8 +3292,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302021, N: 4772956",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Crown Vetch",
 }},
 			  		{
 			            "geometry": {
@@ -3311,8 +3311,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302017, N: 4772952",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -3330,8 +3330,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302025, N: 4772961",
-"Plant": "Hemiptera",
+"Order": "Hemiptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -3349,8 +3349,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302033, N: 4772983",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -3368,8 +3368,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302029, N: 4772976",
-"Plant": "Hemiptera",
+"Order": "Hemiptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -3387,8 +3387,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302041, N: 4772989",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -3406,8 +3406,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302178, N: 4773004",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -3425,8 +3425,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302180, N: 4773001",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -3444,8 +3444,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302182, N: 4773001",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -3463,8 +3463,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302184, N: 4772999",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -3482,8 +3482,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302185, N: 4772999",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -3501,8 +3501,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302187, N: 4772997",
-"Plant": "Hemiptera",
+"Order": "Hemiptera",
+"Plant": "Black Eyed Susan",
 }},
 			  		{
 			            "geometry": {
@@ -3520,8 +3520,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302193, N: 4772996",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -3539,8 +3539,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302205, N: 4772986",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -3558,8 +3558,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302241, N: 4772963",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -3577,8 +3577,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302324, N: 4772773",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -3596,8 +3596,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302298, N: 4772772",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Sweet Clover",
 }},
 			  		{
 			            "geometry": {
@@ -3615,8 +3615,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302258, N: 4772818",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Queen Ann's Lace",
 }},
 			  		{
 			            "geometry": {
@@ -3634,8 +3634,8 @@
 "Wind": "LW",
 "Temperature ": "71",
 "Name": "Class of 1918 Marsh",
-"Order": "E: 0302216, N: 4772822",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Queen Ann's Lace",
 }},
 			  		{
 			            "geometry": {
@@ -3653,8 +3653,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Muir Woods",
-"Order": "E: 0304367, N: 4772071",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -3672,8 +3672,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Muir Woods",
-"Order": "E: 0304372, N: 4772077",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -3691,8 +3691,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Muir Woods",
-"Order": "E: 0304273, N: 4772163",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "White Avens",
 }},
 			  		{
 			            "geometry": {
@@ -3710,8 +3710,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Muir Woods",
-"Order": "E: 0304207, N: 4772183",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Common Cinquefoil",
 }},
 			  		{
 			            "geometry": {
@@ -3729,8 +3729,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Muir Woods",
-"Order": "E: 0304190, N: 4772075",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Wild Rose",
 }},
 			  		{
 			            "geometry": {
@@ -3748,8 +3748,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Muir Woods",
-"Order": "E: 0304186, N: 4772075",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Wild Rose",
 }},
 			  		{
 			            "geometry": {
@@ -3767,8 +3767,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Muir Woods",
-"Order": "E: 0304198, N: 4772071",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Yellow Pimpernel",
 }},
 			  		{
 			            "geometry": {
@@ -3786,8 +3786,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Muir Woods",
-"Order": "E: 0304202, N: 4772074",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Unknown",
 }},
 			  		{
 			            "geometry": {
@@ -3805,8 +3805,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Muir Woods",
-"Order": "E: 0304241, N: 4772067",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -3824,8 +3824,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Muir Woods",
-"Order": "E: 0304286, N: 4772065",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Wild Mint",
 }},
 			  		{
 			            "geometry": {
@@ -3862,8 +3862,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Muir Woods",
-"Order": "E: 0304290, N: 4772064",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Wild Mint",
 }},
 			  		{
 			            "geometry": {
@@ -3881,8 +3881,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Muir Woods",
-"Order": "E: 0304328, N: 4772070",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Wild Mint",
 }},
 			  		{
 			            "geometry": {
@@ -3900,8 +3900,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Muir Woods",
-"Order": "E: 0304364, N: 4772092",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "White Avens",
 }},
 			  		{
 			            "geometry": {
@@ -3919,8 +3919,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Muir Woods",
-"Order": "E: 0304364, N: 4772093",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Wild Mint",
 }},
 			  		{
 			            "geometry": {
@@ -3938,8 +3938,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Muir Woods",
-"Order": "E: 0304373, N: 4772105",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Wild Mint",
 }},
 			  		{
 			            "geometry": {
@@ -3957,8 +3957,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Muir Woods",
-"Order": "E: 0304380, N: 4772103",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -3976,8 +3976,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Picnic Point",
-"Order": "E: 0303183, N: 4773397",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -3995,8 +3995,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Picnic Point",
-"Order": "E: 0303170, N: 4773391",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -4014,8 +4014,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Picnic Point",
-"Order": "E: 0303388, N: 4773587",
-"Plant": "Hemiptera",
+"Order": "Hemiptera",
+"Plant": "Cup Plant",
 }},
 			  		{
 			            "geometry": {
@@ -4033,8 +4033,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Picnic Point",
-"Order": "E: 0303386, N: 4773587",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Bonset",
 }},
 			  		{
 			            "geometry": {
@@ -4052,8 +4052,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Picnic Point",
-"Order": "E: 0303418, N: 4773617",
-"Plant": "Lepidoptera",
+"Order": "Lepidoptera",
+"Plant": "Black Eyed Susan",
 }},
 			  		{
 			            "geometry": {
@@ -4071,8 +4071,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Picnic Point",
-"Order": "E: 0303388, N: 4773604",
-"Plant": "Hemiptera",
+"Order": "Hemiptera",
+"Plant": "Purple Cone Flower",
 }},
 			  		{
 			            "geometry": {
@@ -4090,8 +4090,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Picnic Point",
-"Order": "E: 0303388, N: 4773587",
-"Plant": "Hemiptera",
+"Order": "Hemiptera",
+"Plant": "Cup Plant",
 }},
 			  		{
 			            "geometry": {
@@ -4109,8 +4109,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Picnic Point",
-"Order": "E: 0303387, N: 4773586",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Bee Balm",
 }},
 			  		{
 			            "geometry": {
@@ -4128,8 +4128,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Picnic Point",
-"Order": "E: 0303387, N: 4773586",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Bee Balm",
 }},
 			  		{
 			            "geometry": {
@@ -4147,8 +4147,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Picnic Point",
-"Order": "E: 0303373, N: 4773594",
-"Plant": "Hemiptera",
+"Order": "Hemiptera",
+"Plant": "Cup Plant",
 }},
 			  		{
 			            "geometry": {
@@ -4166,8 +4166,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Picnic Point",
-"Order": "E: 0303399, N: 4773616",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Purple Cone Flower",
 }},
 			  		{
 			            "geometry": {
@@ -4185,8 +4185,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Picnic Point",
-"Order": "E: 0303400, N: 4773616",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Spotted Mint",
 }},
 			  		{
 			            "geometry": {
@@ -4204,8 +4204,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Picnic Point",
-"Order": "E: 0303358, N: 4773569",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Bee Balm",
 }},
 			  		{
 			            "geometry": {
@@ -4223,8 +4223,8 @@
 "Wind": "C",
 "Temperature ": "77",
 "Name": "Picnic Point",
-"Order": "E: 0303023, N: 4773298",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Bee Balm",
 }},
 			  		{
 			            "geometry": {
@@ -4242,8 +4242,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Picnic Point Marsh",
-"Order": "0302827, 4773207",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "White Avens",
 }},
 			  		{
 			            "geometry": {
@@ -4261,8 +4261,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Picnic Point Marsh",
-"Order": "0302822, 4773209",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -4280,8 +4280,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Picnic Point Marsh",
-"Order": "0302846, 4773201",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -4299,8 +4299,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Picnic Point Marsh",
-"Order": "0302858, 4773205",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Black Eyed Susan",
 }},
 			  		{
 			            "geometry": {
@@ -4318,8 +4318,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Picnic Point Marsh",
-"Order": "0302858, 4773205",
-"Plant": "Lepidoptera",
+"Order": "Lepidoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -4337,8 +4337,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Picnic Point Marsh",
-"Order": "0302858, 4773205",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Red Clover",
 }},
 			  		{
 			            "geometry": {
@@ -4356,8 +4356,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Picnic Point Marsh",
-"Order": "0302858, 4773205",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Red Clover",
 }},
 			  		{
 			            "geometry": {
@@ -4375,8 +4375,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Picnic Point Marsh",
-"Order": "0302858, 4773193",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Lanceleaf Coreopsis",
 }},
 			  		{
 			            "geometry": {
@@ -4394,8 +4394,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Picnic Point Marsh",
-"Order": "0302860, 4772192",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Black Eyed Susan",
 }},
 			  		{
 			            "geometry": {
@@ -4413,8 +4413,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Picnic Point Marsh",
-"Order": "0302866, 4773197",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -4432,8 +4432,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Picnic Point Marsh",
-"Order": "0302871, 4773202",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -4451,8 +4451,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Picnic Point Marsh",
-"Order": "0302871, 4773203",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -4470,8 +4470,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Picnic Point Marsh",
-"Order": "0302874, 4773204",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -4489,8 +4489,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Picnic Point Marsh",
-"Order": "0302874, 4773201",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -4508,8 +4508,8 @@
 "Wind": "C",
 "Temperature ": "75",
 "Name": "Picnic Point Marsh",
-"Order": "0302826, 4773208",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "White Clover",
 }},
 			  		{
 			            "geometry": {
@@ -4527,8 +4527,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302295,  4773487",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -4546,8 +4546,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302295,  4773487",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Purple Cone Flower",
 }},
 			  		{
 			            "geometry": {
@@ -4565,8 +4565,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302296,  4773491",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Spiderwort",
 }},
 			  		{
 			            "geometry": {
@@ -4584,8 +4584,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302298,  4773492",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Purple Cone Flower",
 }},
 			  		{
 			            "geometry": {
@@ -4603,8 +4603,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302293,  4773499",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Lanceleaf Coreopsis",
 }},
 			  		{
 			            "geometry": {
@@ -4622,8 +4622,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302294,  4773502",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Lanceleaf Coreopsis",
 }},
 			  		{
 			            "geometry": {
@@ -4641,8 +4641,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302305, 4773514",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -4660,8 +4660,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302305, 4773515",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Black Eyed Susan",
 }},
 			  		{
 			            "geometry": {
@@ -4679,8 +4679,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302297, 4773526",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Purple Cone Flower",
 }},
 			  		{
 			            "geometry": {
@@ -4698,8 +4698,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302294, 4773527",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Purple Cone Flower",
 }},
 			  		{
 			            "geometry": {
@@ -4717,8 +4717,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302295, 4773524",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Purple Cone Flower",
 }},
 			  		{
 			            "geometry": {
@@ -4736,8 +4736,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302296, 4773533",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Lanceleaf Coreopsis",
 }},
 			  		{
 			            "geometry": {
@@ -4755,8 +4755,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302300, 4773544",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Spiderwort",
 }},
 			  		{
 			            "geometry": {
@@ -4774,8 +4774,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302300, 4773543",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Black Eyed Susan",
 }},
 			  		{
 			            "geometry": {
@@ -4793,8 +4793,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302300, 4773543",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Black Eyed Susan",
 }},
 			  		{
 			            "geometry": {
@@ -4812,8 +4812,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302317, 4773516",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "White Prairie Clover",
 }},
 			  		{
 			            "geometry": {
@@ -4831,8 +4831,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302349, 4773626",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Black Eyed Susan",
 }},
 			  		{
 			            "geometry": {
@@ -4850,8 +4850,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302334, 4773521",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Spiderwort",
 }},
 			  		{
 			            "geometry": {
@@ -4869,8 +4869,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302304, 4773482",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -4888,8 +4888,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302297, 4773480",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -4907,8 +4907,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302294, 4773484",
-"Plant": "Hemiptera",
+"Order": "Hemiptera",
+"Plant": "Purple Cone Flower",
 }},
 			  		{
 			            "geometry": {
@@ -4926,8 +4926,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302296, 4773485",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Lanceleaf Coreopsis",
 }},
 			  		{
 			            "geometry": {
@@ -4945,8 +4945,8 @@
 "Wind": "C",
 "Temperature ": "65",
 "Name": "Biocore Prairie",
-"Order": "0302295, 4773494",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -4964,8 +4964,8 @@
 "Wind": "C",
 "Temperature ": "73",
 "Name": "Biocore Prairie",
-"Order": "0302307, 4773479",
-"Plant": "Hemiptera",
+"Order": "Hemiptera",
+"Plant": "Ox Aye",
 }},
 			  		{
 			            "geometry": {
@@ -4983,8 +4983,8 @@
 "Wind": "C",
 "Temperature ": "73",
 "Name": "Biocore Prairie",
-"Order": "0302301, 4773515",
-"Plant": "Hemiptera",
+"Order": "Hemiptera",
+"Plant": "Black Eyed Susan",
 }},
 			  		{
 			            "geometry": {
@@ -5002,8 +5002,8 @@
 "Wind": "C",
 "Temperature ": "73",
 "Name": "Biocore Prairie",
-"Order": "0302308, 4773519",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -5021,8 +5021,8 @@
 "Wind": "C",
 "Temperature ": "73",
 "Name": "Biocore Prairie",
-"Order": "0302335, 4773560",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Black Eyed Susan",
 }},
 			  		{
 			            "geometry": {
@@ -5040,8 +5040,8 @@
 "Wind": "C",
 "Temperature ": "73",
 "Name": "Biocore Prairie",
-"Order": "0302335, 4773560",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Black Eyed Susan",
 }},
 			  		{
 			            "geometry": {
@@ -5059,8 +5059,8 @@
 "Wind": "C",
 "Temperature ": "73",
 "Name": "Biocore Prairie",
-"Order": "0302335, 4773560",
-"Plant": "Coleoptera",
+"Order": "Coleoptera",
+"Plant": "Black Eyed Susan",
 }},
 			  		{
 			            "geometry": {
@@ -5078,8 +5078,8 @@
 "Wind": "C",
 "Temperature ": "73",
 "Name": "Biocore Prairie",
-"Order": "0302543, 4773575",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Black Eyed Susan",
 }},
 			  		{
 			            "geometry": {
@@ -5097,8 +5097,8 @@
 "Wind": "C",
 "Temperature ": "73",
 "Name": "Biocore Prairie",
-"Order": "0302279, 4773573",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Wild Quinine",
 }},
 			  		{
 			            "geometry": {
@@ -5116,8 +5116,8 @@
 "Wind": "C",
 "Temperature ": "73",
 "Name": "Biocore Prairie",
-"Order": "0302285, 4773516",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Lanceleaf Coreopsis",
 }},
 			  		{
 			            "geometry": {
@@ -5135,8 +5135,8 @@
 "Wind": "C",
 "Temperature ": "73",
 "Name": "Biocore Prairie",
-"Order": "0302270, 4773482",
-"Plant": "Diptera",
+"Order": "Diptera",
+"Plant": "Daisy Fleabane",
 }},
 			  		{
 			            "geometry": {
@@ -5154,8 +5154,8 @@
 "Wind": "C",
 "Temperature ": "73",
 "Name": "Biocore Prairie",
-"Order": "0302272, 4773470",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Common Milkweed",
 }},
 			  		{
 			            "geometry": {
@@ -5173,6 +5173,6 @@
 "Wind": "C",
 "Temperature ": "73",
 "Name": "Biocore Prairie",
-"Order": "0302283, 4773446",
-"Plant": "Hymenoptera",
+"Order": "Hymenoptera",
+"Plant": "Ox Aye",
 }},]}

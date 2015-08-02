@@ -56,13 +56,15 @@ for j in range(len(m_data)):
 			            "properties": {
 			            """ % (str(lon),str(lat))
 
+			o = 0
 			for l in range(len(m_dict)):
 				if 'Fog' in m_dict[l] and 'N' not in m_data[j][l]:
 					res_json += '"%s": "%s",\n' % (m_dict[l + 1], m_data[j][l])
 					continue
+				if '477' in m_data[j][l]:
+					o = 1
 				if 'UTM' not in m_dict[l] and 'Fog' not in m_dict[l] and 'Wind' not in m_dict[l]:
-					res_json += '"%s": "%s",\n' % (m_dict[l], m_data[j][l])
-
+					res_json += '"%s": "%s",\n' % (m_dict[l], m_data[j][l + o])
 			res_json += '}},' 
 
 			pos = i
