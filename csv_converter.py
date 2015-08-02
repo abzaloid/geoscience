@@ -57,7 +57,10 @@ for j in range(len(m_data)):
 			            """ % (str(lon),str(lat))
 
 			for l in range(len(m_dict)):
-				if 'UTM' not in m_dict[l]:
+				if 'Fog' in m_dict[l] and 'N' not in m_data[j][l]:
+					res_json += '"%s": "%s",\n' % (m_dict[l + 1], m_data[j][l])
+					continue
+				if 'UTM' not in m_dict[l] and 'Fog' not in m_dict[l] and 'Wind' not in m_dict[l]:
 					res_json += '"%s": "%s",\n' % (m_dict[l], m_data[j][l])
 
 			res_json += '}},' 
