@@ -22,54 +22,9 @@ with open('Mastersheet.csv', 'rb') as csvfile:
 
 n = len(m_dict)
 
-m_dict.append('Location')
-
-# def getGPS(x_a, x_b):
-# 	k = 1
-# 	k0 = 0.9996
-# 	drad = math.pi / 180.0
-# 	a = 6378137.0
-# 	f = 1.0 / 298.2572236
-# 	b = a * (1 - f)
-# 	e = math.sqrt(1 - (b/a)*(b/a))
-# 	e0 = e / math.sqrt(1 - e*e)
-    
-# 	def utmToLatLng (x, y, utmz=16):
-# 		esq = (1 - (b/a)*(b/a))
-# 		e0sq = e * e / (1 - e * e)
-# 		zcm = 3 + 6 * (utmz - 1) - 180
-# 		e1 = (1 - math.sqrt(1 - e * e)) / (1 + math.sqrt(1 - e * e))
-# 		M = y / k0 
-# 		mu = M / (a * (1 - esq * (1 / 4 + esq * (3 / 64 + 5 * esq / 256))))
-# 		phi1 = mu + e1 * (3 / 2 - 27 * e1 * e1 / 32) * math.sin(2 * mu) + e1 * e1 * (21 / 16 - 55 * e1 * e1 / 32) * math.sin(4 * mu)
-# 		phi1 = phi1 + e1 * e1 * e1 * (math.sin(6 * mu) * 151 / 96 + e1 * math.sin(8 * mu) * 1097 / 512)
-# 		C1 = e0sq * math.cos(phi1)*math.cos(phi1)
-# 		T1 = math.tan(phi1)*math.tan(phi1)
-# 		N1 = a / math.sqrt(1 - (e * math.sin(phi1))*(e * math.sin(phi1)))
-# 		R1 = N1 * (1 - e*e) / (1 - (e * math.sin(phi1))*(e * math.sin(phi1)))
-# 		D = (x - 500000) / (N1 * k0)
-# 		phi = (D * D) * (1 / 2 - D * D * (5 + 3 * T1 + 10 * C1 - 4 * C1 * C1 - 9 * e0sq) / 24)
-# 		phi = phi + (D*D*D*D*D*D) * (61 + 90 * T1 + 298 * C1 + 45 * T1 * T1 - 252 * e0sq - 3 * C1 * C1) / 720
-# 		phi = phi1 - (N1 * math.tan(phi1) / R1) * phi
-
-# 		lat = math.floor(100000000 * phi / drad) / 100000000
-# 		lng = D * (1 + D * D * ((-1 - 2 * T1 - C1) / 6 + D * D * (5 - 2 * C1 + 28 * T1 - 3 * C1 * C1 + 8 * e0sq + 24 * T1 * T1) / 120)) / math.cos(phi1)
-# 		lng = zcm + lng / drad
-
-# 		return { 'lat': lat, 'lng': lng }
-
-# 	# print x_a, x_b
-# 	res = utmToLatLng(int(x_a), int(x_b)) 
-# 	return res['lat'], res['lng']
-
 def get(data):
 	res = [s[:7] for s in data.split() if len(s) >= 5]
 	return res
-
-# def getUTM(data):
-# 	res = [s[:7] for s in data.split() if len(s) >= 5]
-# 	lon, lat = res[0], res[1]
-# 	return getGPS(lon, lat)
 
 t=open('vis.js','w')
 
@@ -89,17 +44,23 @@ for j in range(len(m_data)):
 				lat, lon = utm.to_latlon(int(res[0]), int(res[1]), 16, 'N')
 	  			res_csv += str(lat) + "," + str(lon) + "\n";
 	  			res_fusiontables += str(lat) + ";" + str(lon) + "\n"
-	  			res_json += '''
-					  		{
-					            "geometry": {
-					                "type": "Point", 
-					                "coordinates": [
-					                    %s, 
-					                    %s
-					                ]
-					            }
-							},
-				''' % (str(lon),str(lat))
+	  			res_json += """
+			  		{
+			            "geometry": {
+			                "type": "Point", 
+			                "coordinates": [
+			                    %s, 
+			                    %s
+			                ]
+			            },
+			            "properties": {
+			            """ % (str(lon),str(lat))
+
+			for l in range(len(m_dict)):
+				if 'UTM' not in m_dict[l]:
+					res_json += '"%s": "%s",\n' % (m_dict[l], m_data[j][l])
+
+			res_json += '}},' 
 
 			pos = i
 			break
